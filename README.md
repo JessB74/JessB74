@@ -1,16 +1,21 @@
 ## Hi there 👋
+#  I'm Jessica Bassaw! 👋  
 
-<!--
-**JessB74/JessB74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me  
+I'm a passionate self-taught developer with a background in medicine, exploring the world of technology and software development. My journey into tech has been driven by curiosity, problem-solving, and a love for continuous learning. Transitioning from a scientific field to programming has strengthened my analytical thinking, attention to detail, and adaptability.  
 
-Here are some ideas to get you started:
+I enjoy building projects that solve real-world problems and am particularly interested in the intersection of tech and healthcare. Whether it's developing web applications, automating workflows, or analyzing data, I'm always eager to explore new challenges.    
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tools & Technologies  
+- Programming:  JavaScript  
+- Web Development: HTML, CSS, Bootstrap ,TailWindCSS , Wordpress, Materialize  
+- Version Control: Git, GitHub  
+- Learning: React, Node.js , Python
+
+### 📫 Connect with Me  
+[LinkedIn](www.linkedin.com/in/jessica-bassaw) 
+
+### 🌱 What I'm Working On  
+- Expanding my knowledge of full-stack web development  
+- Building projects that combine healthcare and technology  
+- Contributing to open-source projects  
