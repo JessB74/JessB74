@@ -13,7 +13,7 @@ I enjoy building projects that solve real-world problems and am particularly int
 - Learning: React, Node.js , Python
 
 ### 📫 Connect with Me  
-[LinkedIn](www.linkedin.com/in/jessica-bassaw) 
+[LinkedIn](www.linkedin.com/in/jessica-bassawdeveloper) 
 
 ### 🌱 What I'm Working On  
 - Expanding my knowledge of full-stack web development  
